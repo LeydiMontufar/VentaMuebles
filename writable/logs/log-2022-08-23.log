@@ -1,0 +1,11 @@
+CRITICAL - 2022-08-23 00:01:57 --> Call to undefined function baseURL()
+in APPPATH\Views\Layout\menu.php on line 122.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Layout/menu', [], true)
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

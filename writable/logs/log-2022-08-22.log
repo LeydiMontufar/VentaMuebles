@@ -1,0 +1,330 @@
+CRITICAL - 2022-08-22 00:04:11 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:04:25 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:06:22 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:06:23 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:06:23 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:06:24 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:06:41 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:11:47 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:12:48 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 00:20:26 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-08-22 12:09:49 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:12:25 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:12:26 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:12:27 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:12:27 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:12:39 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:12:40 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:12:40 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:13:34 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:13:35 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:13:36 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:13:37 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:13:37 --> Undefined variable $idAlm
+in APPPATH\Views\Usuario\CrearUsuario.php on line 15.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idAlm', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:14:44 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:14:45 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:14:46 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:14:46 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:14:47 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:14:48 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:14:59 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:15:00 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:15:00 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:15:01 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:15:01 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 12:15:01 --> Undefined variable $mensaje
+in APPPATH\Views\Usuario\CrearUsuario.php on line 34.
+ 1 APPPATH\Views\Usuario\CrearUsuario.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\Usuario\\CrearUsuario.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Usuario\\CrearUsuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('Usuario/CrearUsuario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(9): view('Usuario/CrearUsuario')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-22 15:20:17 --> syntax error, unexpected single-quoted string ");", expecting ")"
+in APPPATH\Config\Routes.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
